@@ -7,4 +7,9 @@ tut ja patchu kak hochu
 
 12-23. Patchil denis
 
+<<<<<<< HEAD
 12-27. Ewe andruwa patchit
+=======
+
+12-26. Denis dobavil choto
+>>>>>>> 5583a6850eb8e2831c2a47c85333bc957eb9125c
