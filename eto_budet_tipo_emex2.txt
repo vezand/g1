@@ -1,19 +1,8 @@
 bla bla bla 
 
-<<<<<<< HEAD
 
 andrej
-=======
+
 Denis
 
-
-
-
-
-
-
-
-
-
->>>>>>> 35c9da415bf33821484f8f3034c1e4e41c9cd0b2
 
